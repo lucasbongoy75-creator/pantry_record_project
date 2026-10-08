@@ -1,7 +1,4 @@
 The data flow moves records from pantry workbooks into raw Bronze tables, standardized Silver tables, Gold reporting views, and finally Power BI dashboards.
-<img width="1062" height="792" alt="image" src="https://github.com/user-attachments/assets/0f013990-bb77-4ab4-acb2-c43be95446dd" />
-
-
 ## Source inputs
 
 The project uses the available 2024–2025 pantry reporting workbooks. The records contain two principal grains:
