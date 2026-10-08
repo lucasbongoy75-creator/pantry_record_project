@@ -20,6 +20,8 @@ Key metrics include:
   - Maryland Food Bank (MFB) orders
 
 The page includes a semester slicer and a comparison chart for incoming food versus general food distributed.
+<img width="1902" height="862" alt="image" src="https://github.com/user-attachments/assets/21a36379-25b0-451c-b356-aee9f4188728" />
+
 
 ### 2. Food Handling and Programs
 
@@ -39,6 +41,8 @@ It includes:
   - Recipe Meal Kits
 
 > **Important:** Food activity categories are displayed separately because they may overlap in the source reports. They should not automatically be added together as one total-outgoing-food measure.
+<img width="1917" height="817" alt="image" src="https://github.com/user-attachments/assets/5a5297d0-905b-4b77-8335-09760efdd53f" />
+
 
 ### 3. Student Registrations and Service Visits
 
@@ -53,6 +57,7 @@ It includes:
 - Comparison of estimated registrations and student service visits by semester
 
 Estimated new student registrations are calculated using reusable bags issued by the pantry. This is a proxy measure based on the assumption that reusable bags are issued only to first-time registered students and that one bag represents one new registration.
+<img width="1917" height="857" alt="image" src="https://github.com/user-attachments/assets/e19c31e1-9ecd-4af7-ac47-e817cbdbcf62" />
 
 ## Semester Filtering
 
